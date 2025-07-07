@@ -1,31 +1,3 @@
-# Coding Assignment
-Same problem in either go or python, pick the language you feel most conformable with.
-
-## Go
-
-- Install Go: https://go.dev/doc/install
-- Getting started: https://go.dev/doc/tutorial/getting-started
-- to run the code: go run .
-- to run the tests: go test
-
-### Good Go syntax reference
-https://gobyexample.com/
-
-
-## Python
-
-- Install python 3: https://www.python.org/about/gettingstarted/
-- Install required packages: pip install -r requirements.txt
-- to run the code: python bookstore_assignment.py
-- to run the tests: python -m unittest bookstore_assignment_test.py
-
-### Python reference
-https://docs.python.org/3/reference/index.html
-
-## Tasks
-* A unit test is failing, fix the issue in the code and make all tests pass
-* Add a new endpoint to list one book by title
-* Include a price field to the books struct
 
 ## Solution
 
